@@ -35,7 +35,7 @@ nj=$(nproc) # default uses the maximum number of processors / change if you want
 corpus_directory=$SAVE_DATA_PATH
 #dictionary_path=$TOOL_PATH/hangeul2phone_canonical_lg.txt
 dictionary_path=$TOOL_PATH/nia_13_read_word2phone.txt
-acoustic_model_path=/home/{YOUR_DIRECTORY}/Documents/MFA/pretrained_models/acoustic/korean.zip  # Change {YOUR DIRECTORY} to your directory
+acoustic_model_path=$BASE_PATH/Documents/MFA/pretrained_models/acoustic/korean.zip  # Change {YOUR DIRECTORY} to your directory
 output_directory=$TOOL_PATH/align_output
 # MFA align on the data using hangeul2phone.txt
 if [ $stage -le 0 ]; then
