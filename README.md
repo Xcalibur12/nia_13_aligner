@@ -6,6 +6,10 @@
 설치 관련 링크: https://montreal-forced-aligner.readthedocs.io/en/latest/getting_started.html \
 conda aligner 환경 만든 후 `conda activate aligner`로 환경 접속
 
+* Linux 환경의 praat 설치\
+`sudo apt-get install praat`\
+관련 링크: https://www.fon.hum.uva.nl/praat/download_linux.html
+
 ## 1. 입력 데이터 구조
 
 ``` bash
