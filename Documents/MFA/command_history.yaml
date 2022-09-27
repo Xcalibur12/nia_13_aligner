@@ -1,0 +1,193 @@
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa models download g2p korean_jamo_mfa
+  date: 2022-09-05 11:55:42.785115
+  exception: ''
+  execution_time: 4.257472515106201
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/AIHUB_13/samples
+    /data3/AIHUB_13/data_prep_tools/hangeul2phone_canonical.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/AIHUB_13/data_prep_tools/align_output
+  date: 2022-09-06 00:39:46.712689
+  exception: ''
+  execution_time: 0.23342084884643555
+  exit_code: 1
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/AIHUB_13/samples
+    /data3/AIHUB_13/data_prep_tools/hangeul2phone_canonical.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/AIHUB_13/data_prep_tools/align_output
+  date: 2022-09-06 00:40:35.306919
+  exception: ''
+  execution_time: 0.29032278060913086
+  exit_code: 1
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/AIHUB_13/samples
+    /data3/AIHUB_13/data_prep_tools/hangeul2phone_canonical.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/AIHUB_13/data_prep_tools/align_output
+  date: 2022-09-06 00:42:01.046818
+  exception: ''
+  execution_time: 18.042635679244995
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/AIHUB_13/samples
+    /data3/AIHUB_13/data_prep_tools/hangeul2phone_canonical.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/AIHUB_13/data_prep_tools/align_output
+  date: 2022-09-06 00:56:43.802941
+  exception: ''
+  execution_time: 18.00780487060547
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/AIHUB_13/samples
+    /data3/AIHUB_13/data_prep_tools/hangeul2phone_canonical.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/AIHUB_13/data_prep_tools/align_output
+  date: 2022-09-06 00:58:35.903861
+  exception: ''
+  execution_time: 17.953937530517578
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/AIHUB_13/samples
+    /data3/AIHUB_13/data_prep_tools/hangeul2phone_canonical.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/AIHUB_13/data_prep_tools/align_output
+  date: 2022-09-06 01:01:28.780532
+  exception: ''
+  execution_time: 18.608087301254272
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/AIHUB_13/samples
+    /data3/AIHUB_13/data_prep_tools/hangeul2phone_canonical.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/AIHUB_13/data_prep_tools/align_output
+  date: 2022-09-06 01:06:17.259431
+  exception: ''
+  execution_time: 17.92148184776306
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/AIHUB_13/samples
+    /data3/AIHUB_13/data_prep_tools/hangeul2phone_canonical.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/AIHUB_13/data_prep_tools/align_output
+  date: 2022-09-06 01:07:20.436333
+  exception: ''
+  execution_time: 19.619487524032593
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa g2p --clean 40 ../Documents/MFA/pretrained_models/g2p/korean_jamo_g2p.zip
+    ./scsg-valid-jamo.txt ./scsg-valid-jamo2phone.txt
+  date: 2022-09-21 16:46:01.938389
+  exception: ''
+  execution_time: 0.20597219467163086
+  exit_code: 1
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa g2p --clean -j 40 ../Documents/MFA/pretrained_models/g2p/korean_jamo_g2p.zip
+    ./scsg-valid-jamo.txt ./scsg-valid-jamo2phone.txt
+  date: 2022-09-21 16:46:29.778521
+  exception: ''
+  execution_time: 559.7177560329437
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa g2p --clean -j 40 ../Documents/MFA/pretrained_models/g2p/korean_jamo_g2p.zip
+    ./scsg-valid-jamo.txt ./scsg-valid-jamo2phone.txt
+  date: 2022-09-21 18:11:12.107216
+  exception: ''
+  execution_time: 609.2121603488922
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/AIHUB_13/nsd_paragraph
+    /data3/AIHUB_13/data_prep_tools/hangeul2phone_canonical.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/AIHUB_13/data_prep_tools/align_output
+  date: 2022-09-26 20:52:21.683829
+  exception: ''
+  execution_time: 14.440765619277954
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa g2p --clean -j 4 ./Documents/MFA/pretrained_models/g2p/korean_jamo_g2p.zip
+    /data3/aligner/data_prep/para_reading_jamo-only.txt /data3/aligner/data_prep/para_reading_jamo2phone.txt
+  date: 2022-09-27 15:55:10.327080
+  exception: ''
+  execution_time: 10.804416179656982
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/aligner/nsd_paragraph
+    /data3/aligner/data_prep_tools/hangeul2phone_canonical_lg.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/aligner/data_prep_tools/align_output
+  date: 2022-09-27 16:04:39.921965
+  exception: ''
+  execution_time: 16.163490533828735
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/aligner/nsd_samples
+    /data3/aligner/data_prep_tools/hangeul2phone_canonical_lg.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/aligner/data_prep_tools/align_output
+  date: 2022-09-27 16:26:29.186167
+  exception: ''
+  execution_time: 12.981452226638794
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/aligner/nsd_samples
+    /data3/aligner/data_prep_tools/hangeul2phone_canonical_lg.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/aligner/data_prep_tools/align_output
+  date: 2022-09-27 16:28:29.693775
+  exception: ''
+  execution_time: 12.979199647903442
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/aligner/nsd_samples
+    /data3/aligner/data_prep_tools/hangeul2phone_canonical_lg.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/aligner/data_prep_tools/align_output
+  date: 2022-09-27 16:29:06.961774
+  exception: ''
+  execution_time: 11.896077632904053
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/aligner/nsd_samples
+    /data3/aligner/data_prep_tools/hangeul2phone_canonical_lg.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/aligner/data_prep_tools/align_output
+  date: 2022-09-27 16:31:04.109334
+  exception: ''
+  execution_time: 12.86237907409668
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/aligner/nsd_samples
+    /data3/aligner/data_prep_tools/hangeul2phone_canonical_lg.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/aligner/data_prep_tools/align_output
+  date: 2022-09-27 16:34:03.617866
+  exception: ''
+  execution_time: 1.5445139408111572
+  exit_code: 1
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/aligner/nsd_samples
+    /data3/aligner/data_prep_tools/hangeul2phone_canonical_lg.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/aligner/data_prep_tools/align_output
+  date: 2022-09-27 16:34:52.781941
+  exception: ''
+  execution_time: 1.3051111698150635
+  exit_code: 1
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/aligner/nsd_samples
+    /data3/aligner/data_prep_tools/hangeul2phone_canonical_lg.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/aligner/data_prep_tools/align_output
+  date: 2022-09-27 16:37:11.232155
+  exception: ''
+  execution_time: 12.863744258880615
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa g2p --clean -j 4 ./Documents/MFA/pretrained_models/g2p/korean_jamo_g2p.zip
+    /data3/aligner/dict_prep/nia_13_all_jamo-only.txt /data3/aligner/dict_prep/nia_13_all_jamo2phone.txt
+  date: 2022-09-27 18:47:35.217501
+  exception: ''
+  execution_time: 14.582128524780273
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/aligner/nsd_samples
+    /data3/aligner/data_prep_tools/nia_13_read_word2phone.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/aligner/data_prep_tools/align_output
+  date: 2022-09-27 18:54:43.570723
+  exception: ''
+  execution_time: 12.865828514099121
+  exit_code: 0
+  version: 2.0.6
+- command: /home/excalibur12/miniconda3/envs/aligner/bin/mfa align --clean -j 40 /data3/aligner/nsd_samples
+    /data3/aligner/data_prep_tools/nia_13_read_word2phone.txt /home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+    /data3/aligner/data_prep_tools/align_output
+  date: 2022-09-27 18:56:00.417414
+  exception: ''
+  execution_time: 15.205729961395264
+  exit_code: 0
+  version: 2.0.6

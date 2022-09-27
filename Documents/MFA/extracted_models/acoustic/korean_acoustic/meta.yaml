@@ -1,0 +1,5 @@
+architecture: gmm-hmm
+features: mfcc+deltas
+phones: [A, AE, B, BB, CHh, D, DD, E, EO, EU, G, GG, H, I, J, JJ, Kh, L, M, N, NG,
+  O, OE, Ph, R, S, SS, Th, U, UE, euI, iA, iE, iEO, iO, iU, k, oA, p, t, uEO]
+version: 1.0.0
