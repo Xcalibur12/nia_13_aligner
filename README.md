@@ -45,8 +45,8 @@ e.g. `cp -r input_data nia_13_aligner/`
 e.g. `bash run_align.sh example_data`
 
 ## 3. 강제정렬 결과 확인
-* `nia_13_aligner/[INPUT_DATA_FOLDER]_results`라는 폴더 생성\
-* results 폴더는 강제정렬에 성공한 wav_align_complete 폴더와 강제정렬을 하지 못한 wav_align_failed 폴더로 구성\
+* `nia_13_aligner/[INPUT_DATA_FOLDER]_results`라는 폴더 생성
+* results 폴더는 강제정렬에 성공한 wav_align_complete 폴더와 강제정렬을 하지 못한 wav_align_failed 폴더로 구성
 * wav_align_complete 폴더는 다시 [INPUT_DATA_FOLDER]와 동일한 화자별 폴더로 구성되어 있으며, 그 안은 wav-TextGrid 데이터쌍으로 되어 있음
 * 모든 데이터가 강제정렬에 성공하였을 때는 별도의 wav_align_failed 폴더는 만들어지지 않음
 
