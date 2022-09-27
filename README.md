@@ -29,7 +29,7 @@ input_data
 화자가 1명이더라도 화자 폴더를 만들고, 그 안에 wav-txt 데이터 쌍을 두어야 함.
 
 ## 2. nia_13_aligner 사용법
-1. `git clone`
+1. `git clone https://github.com/Xcalibur12/nia_13_aligner.git`
 2. `cd nia_13_aligner`
 3. `bash run_align.sh [INPUT_DATA_FOLDER]`\
 e.g. `bash run_align.sh input_data`
