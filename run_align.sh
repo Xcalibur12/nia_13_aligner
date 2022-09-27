@@ -17,7 +17,7 @@ EOF
     exit 1;
 fi
 
-BASE_PATH=/data3/aligner # Change to your environment
+BASE_PATH=nia_13_aligner # Change to your environment
 SRC_DATA_PATH=$BASE_PATH/$1 # Change to your environment # nia_all
 #SAVE_DATA_PATH="$SRC_DATA_PATH"_processed # Do not change
 SAVE_DATA_PATH=$SRC_DATA_PATH # Do not change
@@ -35,7 +35,7 @@ nj=$(nproc) # default uses the maximum number of processors / change if you want
 corpus_directory=$SAVE_DATA_PATH
 #dictionary_path=$TOOL_PATH/hangeul2phone_canonical_lg.txt
 dictionary_path=$TOOL_PATH/nia_13_read_word2phone.txt
-acoustic_model_path=/home/excalibur12/Documents/MFA/pretrained_models/acoustic/korean.zip
+acoustic_model_path=/home/{YOUR_DIRECTORY}/Documents/MFA/pretrained_models/acoustic/korean.zip  # Change {YOUR DIRECTORY} to your directory
 output_directory=$TOOL_PATH/align_output
 # MFA align on the data using hangeul2phone.txt
 if [ $stage -le 0 ]; then
@@ -85,16 +85,6 @@ echo "STEP 10: Copy TextGrids to $RESULT_PATH"
 cp $TOOL_PATH/final/*.TextGrid $RESULT_PATH
 cp $SRC_DATA_PATH/*/*.wav $RESULT_PATH
 rm -rf $RESULT_PATH/*.canonical.TextGrid
-echo "==> DONE"
-echo " "
-fi
-
-exit 0
-
-# Create speaker folders and move files to their speaker folders
-if [ $stage -le 4 ]; then
-echo "STEP 11: Create speaker folders and move files to their speaker folders"
-python3 $TOOL_PATH/make_speaker_folders.py $RESULT_PATH || exit 1
 echo "==> DONE"
 echo " "
 fi
