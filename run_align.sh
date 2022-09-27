@@ -17,7 +17,7 @@ EOF
     exit 1;
 fi
 
-BASE_PATH=nia_13_aligner # Change to your environment
+BASE_PATH=. # Change to your environment
 SRC_DATA_PATH=$BASE_PATH/$1 # Change to your environment # nia_all
 #SAVE_DATA_PATH="$SRC_DATA_PATH"_processed # Do not change
 SAVE_DATA_PATH=$SRC_DATA_PATH # Do not change
