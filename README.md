@@ -3,7 +3,7 @@
 ## 0. 사전 작업
 
 * mfa align을 위한 conda 환경 설치\
-설치 관련 링크: https://montreal-forced-aligner.readthedocs.io/en/latest/getting_started.html
+설치 관련 링크: https://montreal-forced-aligner.readthedocs.io/en/latest/getting_started.html\
 conda aligner 환경 만든 후 `conda activate aligner`로 환경 접속
 
 * jamo 라이브러리 설치\
