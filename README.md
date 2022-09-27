@@ -23,8 +23,12 @@ input_data
     └── spkr_03_utt_01.wav
 ```
 
-강제정렬 할 모든 데이터가 들어있는 단일 폴더(input_data) 아래에 화자별 폴더와 그 아래에 wav-txt의 데이터쌍이 있어야 함.\
+* 강제정렬 할 모든 데이터가 들어있는 단일 폴더(input_data) 아래에 화자별 폴더와 그 아래에 wav-txt의 데이터쌍이 있어야 함.\
 화자가 1명이더라도 화자 폴더를 만들고, 그 안에 wav-txt 데이터 쌍을 두어야 함.
+
+* 음성 파일은 wav 파일, 모노 채널, 16-bit precision, sampling rate 16000Hz로 변환하여 사용하는 것을 권장.\
+변환 툴킷 중 `sox` 사용하면 편리하게 변환할 수 있음.\
+e.g. `sox input.mp3 -c 1 -b 16 -r 16000 output.wav`
 
 ## 2. nia_13_aligner 사용법
 1. `git clone https://github.com/Xcalibur12/nia_13_aligner.git`
@@ -32,7 +36,7 @@ input_data
 e.g. `cp -r input_data nia_13_aligner/`
 3. `cd nia_13_aligner`
 4. `bash run_align.sh [INPUT_DATA_FOLDER]`\
-e.g. `bash run_align.sh input_data`
+e.g. `bash run_align.sh example_data`
 
 ## 3. 강제정렬 결과 확인
 `nia_13_aligner/[INPUT_DATA_FOLDER]_results`라는 폴더 생성\
