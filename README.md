@@ -40,3 +40,7 @@ e.g. `bash run_align.sh input_data`
 ## 3. 강제정렬 결과 확인
 `nia_13_aligner/[INPUT_DATA_FOLDER]_results`라는 폴더 생성\
 해당 폴더 안에 wav-TextGrid의 데이터 쌍이 만들어져있음.
+
+## 4. SPN 관련
+강제정렬 결과 중 SPN이 포함되어 있다면 입력한 전사 파일이 NIA 13번 과제 대본에 나온 대로 작성되어 있지 않음을 의미\
+문장을 다시 확인하여 대본에 맞게 수정 필요
