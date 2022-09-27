@@ -30,6 +30,12 @@ input_data
 
 ## 2. nia_13_aligner 사용법
 1. `git clone https://github.com/Xcalibur12/nia_13_aligner.git`
-2. `cd nia_13_aligner`
-3. `bash run_align.sh [INPUT_DATA_FOLDER]`\
+2. 준비해둔 input_data 폴더를 nia_13_aligner로 이동/복사\
+e.g. `cp -r input_data nia_13_aligner/`
+3. `cd nia_13_aligner`
+4. `bash run_align.sh [INPUT_DATA_FOLDER]`\
 e.g. `bash run_align.sh input_data`
+
+## 3. 강제정렬 결과 확인
+`nia_13_aligner/[INPUT_DATA_FOLDER]_results`라는 폴더 생성\
+해당 폴더 안에 wav-TextGrid의 데이터 쌍이 만들어져있음.
