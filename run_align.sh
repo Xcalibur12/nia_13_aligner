@@ -34,7 +34,7 @@ fi
 nj=$(nproc) # default uses the maximum number of processors / change if you want to decrease the number
 corpus_directory=$SAVE_DATA_PATH
 #dictionary_path=$TOOL_PATH/hangeul2phone_canonical_lg.txt
-dictionary_path=$TOOL_PATH/nia_13_read_word2phone.txt
+dictionary_path=$TOOL_PATH/nia_13_read_lexicon_20221005_sorted.txt
 acoustic_model_path=$BASE_PATH/Documents/MFA/pretrained_models/acoustic/korean.zip  # Change {YOUR DIRECTORY} to your directory
 output_directory=$TOOL_PATH/align_output
 # MFA align on the data using hangeul2phone.txt
