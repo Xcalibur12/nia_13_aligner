@@ -46,6 +46,7 @@
 공부만 G O NG B U M A N
 공부하게	G O NG B U H A G E
 공부하는  G O NG B U H A N EU N
+공부한 G O NG B U H A N
 공부했습니다	G O NG B U H AE SS EU M N I D A
 공짜	G O NG JJ A
 공항과	G O NG H A NG G oA
@@ -55,6 +56,7 @@
 괜찮다	G O AE N CHh A N Th A
 괴물	G OE M U L
 교육열	G iO iU NG N iEO L
+교재나 G iO J AE N A
 구두	G U D U
 구하다	G U H A D A
 국내선	G U NG N AE S EO N
@@ -146,11 +148,13 @@
 더	D EO
 더워요	D EO uEO iO
 데	DD E
+도움이 D O U M I
 도착했어요	D O CHh A Kh AE SS EO iO
 돈은	D O N EU N
 돼요	D O AE iO
 되는데	D OE N EU N D E
 되어	D OE EO
+될 D OE L
 될까요	D OE L GG A iO
 됩니다	D OE M N I D A
 두부	D U B U
@@ -169,6 +173,7 @@
 따뜻하지요	DD A DD EU Th A J I iO
 따라서	DD A R A S EO
 딱	DD A k
+때문에 DD AE M U N E
 때문이다	DD AE M U N I D A
 또	DD O
 뛰어서	DD UE EO S EO
@@ -282,10 +287,12 @@
 뿌리	BB U R I
 사과	S A G oA
 사귀고 S A G UE G O
+사람들과  S A R A M D EU L G oA
 사람이	S A R A M I
 사랑한다	S A R A NG H A N D A
 사러	S A R EO
 사용하는	S A iO NG H A N EU N
+사용하지  S A iO NG H A J I
 사의	S A euI
 사진을	S A J I N EU L
 살이	S A R I
@@ -300,8 +307,10 @@
 생각에는  S AE NG G A G E N EU N
 생각하고	S AE NG G A Kh A G O
 생각한다	S AE NG G A Kh A N D A
+생각해 S AE NG G A Kh E
 생긴	S AE NG G I N
 생활이	S AE NG H oA R I
+생활에서  S AE NG H oA R E S EO
 서둘렀을	S EO D U L R EO SS EU L
 선생님이	S EO N S AE NG N I M I
 성장했습니다	S EO NG J A NG H AE SS EU M N I D A
@@ -311,6 +320,7 @@
 소리를	SS O R I R EU L
 수	SS U
 수고하다	S U G O H A D A
+수도  SS U D O
 수리	S U R I
 수업	S U EO p
 수업료가	S U EO M N iO G A
@@ -368,6 +378,7 @@
 앓더니	A L Th EO N I
 야구	iA G U
 약국	iA k GG U k
+얘기를 iE G I R EU L
 어디	EO D I
 어디로	EO D I R O
 어디에서	EO D I E S EO
@@ -415,7 +426,9 @@
 왔습니다	oA SS EU M N I D A
 왔어요	oA SS EO iO
 왜	O AE
+왜냐하면  O AE N iA H A M iEO N
 외국	OE G U k
+외국어는  OE G U G EO N EU N
 용돈은	iO NG DD O N EU N
 우리	U R I
 우리가	U R I G A
@@ -473,7 +486,9 @@
 입구	I p GG U
 있구나	I GG U N A
 있기	I GG I
-있도록	I t DD O R O k
+있다  I DD A
+있다고 I DD A G O
+있도록	I DD O R O k
 있습니다	I SS EU M N I D A
 있어요	I SS EO iO
 있었어요	I SS EO SS EO iO
@@ -569,6 +584,7 @@
 채소	CHh AE S O
 책상	CHh AE k SS A NG
 책임이야	CHh AE G I M I iA
+책으로만  CHh AE G EU R O M A N
 친구	CHh I N G U
 친구들 CHh I N G U D EU L
 친구들을  CHh I N G U D EU R EU L
@@ -610,6 +626,7 @@
 합니다	H A M N I D A
 합법적으로	H A p BB EO p JJ EO G EU R O
 항상	H A NG S A NG
+향상에  H iA NG S A NG E
 해	H AE
 해결을	H AE G iEO R EU L
 해도	H AE D O
