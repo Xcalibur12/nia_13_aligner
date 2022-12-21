@@ -45,6 +45,7 @@
 공부  G O NG B U
 공부만 G O NG B U M A N
 공부하게	G O NG B U H A G E
+공부하는  G O NG B U H A N EU N
 공부했습니다	G O NG B U H AE SS EU M N I D A
 공짜	G O NG JJ A
 공항과	G O NG H A NG G oA
@@ -101,6 +102,7 @@
 나가	N A G A
 나갔는데	N A G A N N EU N D E
 나갔어요	N A G A SS EO iO
+나누면서  N A N U M iEO N S EO
 나는	N A N EU N
 나뭇잎	N A M U N N I p
 나세요	N A S E iO
@@ -140,6 +142,7 @@
 닮았어요	D A L M A SS EO iO
 당장	D A NG J A NG
 대단하네요	D AE D A N H A N E iO
+대화를  D AE H oA R EU L 
 더	D EO
 더워요	D EO uEO iO
 데	DD E
@@ -178,6 +181,7 @@
 막히나	M A Kh I N A
 만드는	M A N D EU N EU N
 많고	M A N Kh O
+많은  M A N EU N
 많을	M A N EU L
 많이	M A N I
 맏이	M A J I
@@ -277,6 +281,7 @@
 빵	BB A NG
 뿌리	BB U R I
 사과	S A G oA
+사귀고 S A G UE G O
 사람이	S A R A M I
 사랑한다	S A R A NG H A N D A
 사러	S A R EO
@@ -507,6 +512,7 @@
 좋다	J O Th A
 좋던데요	J O Th EO N D E iO
 좋습니다	J O SS EU M N I D A
+좋아  J O A
 좋아요	J O A iO
 좋아하며	J O A H A M iEO
 좋아하세요	J O A H A S E iO
@@ -564,6 +570,8 @@
 책상	CHh AE k SS A NG
 책임이야	CHh AE G I M I iA
 친구	CHh I N G U
+친구들 CHh I N G U D EU L
+친구들을  CHh I N G U D EU R EU L
 침대	CHh I M D AE
 켤레	Kh iEO L R E
 키	Kh I
@@ -594,7 +602,6 @@
 학교에	H A k GG iO E
 학자의	H A k JJ A euI
 한	H A N
-한국	H A N G U NG
 한국	H A N G U k
 한국말을	H A N G U NG M A R EU L
 한국어	H A N G U G EO
