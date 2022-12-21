@@ -30,6 +30,7 @@
 걸	G EO L
 걸려요	G EO L R iEO iO
 것	GG EO t
+것도  G EO t DD O
 것을	G EO S EU L
 것이	G EO S I
 게	G E
@@ -41,6 +42,8 @@
 고저	G O J EO
 고향에서는	G O H iA NG E S EO N EU N
 공권력의	G O NG GG uEO N N iEO G euI
+공부  G O NG B U
+공부만 G O NG B U M A N
 공부하게	G O NG B U H A G E
 공부했습니다	G O NG B U H AE SS EU M N I D A
 공짜	G O NG JJ A
@@ -289,6 +292,7 @@
 색을	S AE G EU L
 색종이	S AE k JJ O NG I
 생각	S AE NG G A NG
+생각에는  S AE NG G A G E N EU N
 생각하고	S AE NG G A Kh A G O
 생각한다	S AE NG G A Kh A N D A
 생긴	S AE NG G I N
@@ -325,6 +329,8 @@
 실내	S I L R AE
 실력	S I L R iEO k
 실수하지	S I L SS U H A J I
+실제  S I L JJ E
+실제로 S I L JJ E R O
 십만	S I M M A N
 싱싱하다	S I NG S I NG H A D A
 싶다	S I p DD A
@@ -525,7 +531,9 @@
 줄리앙이라고	J U L R I A NG I R A G O
 중국	J U NG G U k
 중에서	J U NG E S EO
+중요  J U NG iO
 중요하고	J U NG iO H A G O
+중요하지만 J U NG iO H A J I M A N
 중요할까	J U NG iO H A L GG A
 즐겁네요	J EU L G EO M N E iO
 즐긴다	J EU L G I N D A
