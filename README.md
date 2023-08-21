@@ -5,7 +5,7 @@
 * 본 모델은 Linux 환경에서 제작되었으며, Linux 환경에서 사용할 것을 권장함.
 
 * mfa align을 위한 conda 환경 설치\
-설치 관련 링크: https://montreal-forced-aligner.readthedocs.io/en/latest/getting_started.html \
+설치 관련 링크: [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/en/latest/getting_started.html) \
 conda aligner 환경 만든 후 `conda activate aligner`로 환경 접속
 
 * Linux 환경의 praat 설치\
